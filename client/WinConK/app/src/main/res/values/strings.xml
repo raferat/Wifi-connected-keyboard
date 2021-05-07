@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wifi Connected Keyboard</string>
+    <string name="video_button">Video</string>
+    <string name="mouse_button">Mouse</string>
+    <string name="alphabet_button">Alphabet</string>
+    <string name="meet_button">Google Meet</string>
+    <string name="teams_button">Microsoft Teams</string>
+    <string name="activity_confirm_yes">yes</string>
+    <string name="activity_confirm_no">no</string>
+    <string name="activity_confirm_qestion">Do you want to connect to:</string>
+    <string name="activity_error_title">Error</string>
+    <string name="activity_error_qrerror">I couldn\'t connect to your pc. Check if the qr code is valid. Or try to change the value above it.</string>
+    <string name="activity_error_button">Back to scan</string>
+</resources>

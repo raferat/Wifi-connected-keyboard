@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_button">video</string>
+    <string name="mouse_button">myš</string>
+    <string name="alphabet_button">abeceda</string>
+    <string name="meet_button">google meet</string>
+    <string name="teams_button">microsoft teams</string>
+    <string name="activity_confirm_yes">ano</string>
+    <string name="activity_confirm_no">ne</string>
+    <string name="app_name">Klávesnice připojená přes wifi</string>
+    <string name="activity_confirm_qestion">Chcete se připojit do:</string>
+    <string name="activity_error_title">Chyba</string>
+    <string name="activity_error_qrerror">Nemohu se připojit do počítače. Zkontrolujte jestli je qr kód platný nebo změňte adresu nad qr kódem.</string>
+    <string name="activity_error_button">Zpět na scanování.</string>
+</resources>

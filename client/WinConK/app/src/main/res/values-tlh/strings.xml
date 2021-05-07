@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_button">Qapla\' Qu\' buSHa\'chugh SuvwI\', batlhHa\' vangchugh, qoj matlhHa\'chugh, pagh ghaH SuvwI\'\'e\'</string>
+    <string name="mouse_button">Qapla\' qaStaHvIS wa\' ram loS SaD Hugh SIjlaH qetbogh loD</string>
+    <string name="alphabet_button">nuqDaq yuch Dapol</string>
+    <string name="meet_button">Qapla\' leghlaHchu\'be\'chugh mIn lo\'laHbe\' taj jej.</string>
+    <string name="activity_confirm_yes">HIja\' nebo HISlaH</string>
+    <string name="activity_confirm_no">ghobe\'</string>
+    <string name="teams_button">bortaS bIr jablu\'DI\' reH QaQqu\' nay\'</string>
+    <string name="activity_confirm_qestion">Daqvam DaSov.</string>
+    <string name="activity_error_title">pIch vIghajbe\'</string>
+    <string name="activity_error_qrerror">chay\' pIch vIghajbe\'</string>
+    <string name="activity_error_button">" Do'Ha'"</string>
+</resources>
