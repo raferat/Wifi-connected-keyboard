@@ -1,0 +1,15 @@
+client/WinConK/*.iml
+client/WinConK/.gradle
+client/WinConK/local.properties
+client/WinConK/.idea/caches
+client/WinConK/.idea/libraries
+client/WinConK/.idea/modules.xml
+client/WinConK/.idea/workspace.xml
+client/WinConK/.idea/navEditor.xml
+client/WinConK/.idea/assetWizardSettings.xml
+client/WinConK/.DS_Store
+client/WinConK/build
+client/WinConK/captures
+client/WinConK/.externalNativeBuild
+client/WinConK/.cxx
+client/WinConK/local.properties
